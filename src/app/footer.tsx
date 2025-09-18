@@ -6,12 +6,10 @@ const Footer = () => {
         <div>
             <div>
                 <h3>Fale conosco</h3>
-                <p>
-                    <ul>
-                        <li>Email</li>
-                        <li>Telefone</li>
-                    </ul>
-                </p>
+                <ul>
+                    <li>Email</li>
+                    <li>Telefone</li>
+                </ul>
             </div>
         </div>
     </div>
